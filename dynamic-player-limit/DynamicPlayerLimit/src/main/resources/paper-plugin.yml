@@ -1,0 +1,4 @@
+name: DynamicPlayerLimit
+version: '0.0.1'
+main: dkt.xeroup.dynamicPlayerLimit.DynamicPlayerLimit
+api-version: '1.21'
