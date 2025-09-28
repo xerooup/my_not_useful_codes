@@ -1,0 +1,5 @@
+load console as cns
+
+class main {
+  cns.println("hello wolrd");
+}
